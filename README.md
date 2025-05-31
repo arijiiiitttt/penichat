@@ -1,25 +1,20 @@
-This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+# 🐧Penichat - An AI-Powered Web Chat App
 
-## Getting Started
+![Penichat Logo](/public/logo/penichat.png)
 
-First, add your OpenAI API key to `.env.local` file:
+Welcome to **Penichat**, a powerful AI-driven conversational web app inspired by ChatGPT! Whether you're looking for insightful discussions, instant answers, or creative brainstorming, Penichat is here to provide engaging and intelligent conversations.
 
-```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
+## 🚀 Features
 
-Then, run the development server:
+- **Natural Language Processing** – Powered by advanced AI models for human-like interactions.
+- **Real-Time Chat** – Seamless conversations with instant response generation.
+- **Multi-Language Support** – Communicate effortlessly in various languages.
+- **Customizable UI** – Modern, sleek, and adaptive design for smooth user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔧 Installation & Setup
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+To run Penichat locally, follow these steps:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 1️⃣ Clone the Repository
+```sh
+git clone https://github.com/arijiiiitttt/penichat.git
